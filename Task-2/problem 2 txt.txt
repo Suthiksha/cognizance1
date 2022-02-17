@@ -1,0 +1,18 @@
+Pseudocode and flowchart for program that prints Nth fibonacci number:
+
+Declare Integer i,n,a,b,sum
+Assign a = 1
+Assign b = 1
+Assign sum = 0
+Output " Enter no. of fibonacci series"
+Input n
+Assign i = 3
+while i <=n
+Assign sum = a+b
+Assign a = b
+Assign b = sum
+Assign i = i+1
+end
+output " sum"
+output sum
+End

@@ -1,0 +1,19 @@
+Pseudocode for a program that outputs ‘True’ if a given number is divisible by 3 and ‘False’:
+;
+Declare Integer a,b,n
+output " enter n"
+Input n
+Assign b = 0
+If n<0
+Assign n= -n
+End
+For a=0 to n step 3
+If A==n
+Assign a= n+1
+Assign B = 1
+End
+IF b==1
+output " TRUE"
+false:
+output " FALSE"
+END
